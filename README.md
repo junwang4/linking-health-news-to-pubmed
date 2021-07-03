@@ -1,6 +1,7 @@
 # Data used in "Linking Health News to Research Literature"
 
-### Reuters data used for training "journal sentence classifier" and "journal name NER":
+### Reuters data ###
+- used for training "journal sentence classifier" and "journal name NER"
 
 **reuters/journal_sentences_labeled.csv**
 ```
@@ -24,7 +25,8 @@ International I-JO
 . O
 ```
 
-### Cardiff data used for evaluating the performance of CrossRef and home-made literature search engines ###
+### Cardiff data ###
+- used for evaluating the performance of CrossRef and home-made literature search engines
 
 **cardiff/corpus_news_enhanced.csv**
 ```
