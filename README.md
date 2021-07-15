@@ -1,5 +1,18 @@
 # Data used in "Linking Health News to Research Literature"
 
+PrePrint: [https://arxiv.org/abs/2107.06472](https://arxiv.org/abs/2107.06472)
+
+```
+@misc{wang2021linkingnews,
+      title={Linking Health News to Research Literature}, 
+      author={Jun Wang and Bei Yu},
+      year={2021},
+      eprint={2107.06472},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
+
 ### Reuters data ###
 used for training "journal sentence classifier" and "journal name NER"
 
